@@ -1,4 +1,4 @@
-# STARTER-jpa01
+# jpa01-HaasiniY
 
 * TODO: Change the title of this README (above)
   in the text `# STARTER-jpa01` above
@@ -10,7 +10,8 @@
   a link to your running app on Dokku, e.g.
   https://jpa01-cgaucho.dokku-14.cs.ucsb.edu
 
-Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa01-haasiniy.dokku-15.cs.ucsb.edu/
+
 
 
 # About this repo
